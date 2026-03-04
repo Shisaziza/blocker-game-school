@@ -2,13 +2,13 @@
   "block_patterns": [
     "game", "play", "youtube", "tiktok", "porn", "casino",
     "bet", "vpn", "launcher", "змейка", "chromewebstore",
-    "doodle", "игры", "играть", "privet", "pinterest"
+    "doodle", "игры", "играть", "privet", "pinterest", "fun", "snake", 
   ],
   "whitelist": [
     "localhost", "127.0.0.1", "office.local", "company.com", "microsoft.com","github"
   ],
   "settings": {
-    "version": "1.2.5",
+    "version": "1.2.6",
     "updated": "2026-03-04T17:50:00Z"
   }
 }
