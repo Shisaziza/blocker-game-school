@@ -13,7 +13,10 @@
     "chromewebstore",
     "doodle",
     "игры",
-    "играть"
+    "играть",
+    "дудлы",
+    "fun",
+    "clicker"
   ],
   "whitelist": [
     "localhost",
