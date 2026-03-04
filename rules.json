@@ -1,0 +1,30 @@
+{
+  "block_patterns": [
+    "game",
+    "play",
+    "youtube",
+    "tiktok",
+    "porn",
+    "casino",
+    "bet",
+    "vpn",
+    "launcher",
+    "змейка",
+    "chromewebstore",
+    "doodle",
+    "игры",
+    "играть"
+  ],
+  "whitelist": [
+    "localhost",
+    "127.0.0.1",
+    "office.local",
+    "company.com",
+    "microsoft.com"
+  ],
+  "settings": {
+    "log_level": "info",
+    "block_page_title": "🚫 Доступ запрещён",
+    "block_page_message": "Сайт заблокирован политикой безопасности компании."
+  }
+}
