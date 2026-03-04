@@ -23,7 +23,8 @@
     "127.0.0.1",
     "office.local",
     "company.com",
-    "microsoft.com"
+    "microsoft.com",
+    "github"
   ],
   "settings": {
     "log_level": "info",
