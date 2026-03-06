@@ -23,7 +23,11 @@
     "google.*interactive",
     "pinterest",
     "fun",
-    "clicker"
+    "clicker",
+    "ufo",
+    "minecraft",
+    "craft",
+    "mine"
   ],
   "whitelist": [
     "localhost",
